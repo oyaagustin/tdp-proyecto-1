@@ -1,0 +1,6 @@
+#Carpeta bin
+/bin/
+
+#Archivos de configuración de Eclipse
+.classpath
+.project
